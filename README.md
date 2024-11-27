@@ -1,4 +1,4 @@
-# Digital Computers Lab - MSP430
+# Digital Computers Lab - MSP430 (Final grade: 93)
 
 ## Overview
 
