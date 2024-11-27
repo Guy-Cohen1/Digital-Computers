@@ -1,0 +1,1 @@
+The PC-side contains a single script that defines the menu options and sets up the communication method. This is achieved using PyCharm and the pyserial library, which allows PyCharm to establish serial communication with the MSP-430 microcontroller.
